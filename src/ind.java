@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class ind {
     public static void main(String[] ar)
     {
@@ -32,5 +31,4 @@ public class ind {
         ans.addAll(small);
         return ans;
     }
-
 }
